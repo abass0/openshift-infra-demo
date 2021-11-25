@@ -1,14 +1,14 @@
 # Setting up logging and monitoring (Grafana & Kibana)
 
-- Install logging operators (Operator Hub): 
+### Install logging operators (Operator Hub): 
  
- ```
+  ```
   Openshift Elasticsearch Operator
      
   Openshift Logging Operator
  ```
 
-- Create a logging instance:
+### Create a logging instance:
 
 ```
 apiVersion: "logging.openshift.io/v1"
@@ -62,13 +62,11 @@ spec:
             cpu: 200m
             memory: 1Gi
   ```
+### Create Kibana index (logging dashboard):
 
-  - Create Kiabana index (logging dashboard):
-
--[ ] Click "Create index pattern"
-
--[ ] Name-it "infra" 
-
--[ ] Next step
-
--[ ] Click "Discover" and the infra loggs will be on display
+```
+- [x] Click "Create index pattern"
+- [x] Name-it "infra" 
+- [x] Click "Next step"
+- [x] Click "Discover" and the infra loggs will be on display
+```
