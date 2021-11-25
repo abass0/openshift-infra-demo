@@ -2,7 +2,8 @@
 
 ### Default monitoring dashboard
 
-    Grafana is up by default in the Openshift cluster inside the openshift-monitoring namespace. It is possible to customize and set it up to be specific for used defined workload. 
+    Grafana is up by default in the Openshift cluster inside the openshift-monitoring namespace. 
+    It is possible to customize and set it up to be specific for used defined workload. 
 
 ### Accessing Grafana dashboard
 
