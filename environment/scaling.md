@@ -34,6 +34,8 @@ Next we will use a "stress test job" to demonstrate the scaling of the machines 
 - [x] Create a new project called "stress-test" (optional)
 - [x] Use this example to lauch a stress job to force the cluster to scale:
 ```
+
+stress-job.yaml:
 ```
 apiVersion: batch/v1
 kind: Job
