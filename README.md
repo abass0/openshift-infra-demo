@@ -11,6 +11,6 @@ In this demo, we will discuss:
     - Monitoring Dashboard (Grafana)
     - Users and Cluster Roles
     - Overview, Scaling and Management of nodes 
-    - Simple app deploy with Routing
+    - Storage Overview
 
 
