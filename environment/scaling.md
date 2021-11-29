@@ -66,3 +66,5 @@ Here you will be able to show the newly created pods as they start to go up. Nex
 - [x] Go to Compute and then Machines
 ```
 You should see the new nodes start to build. Observe that, because we set the max machines ate 10, the cluster will only create 10 new nodes to support the new workload. You can also use the `Node` visualization to demonstrate the newly created resources. 
+
+`Important: If you have a cluster with enough resources (big worker nodes) the cluster wont scale.`

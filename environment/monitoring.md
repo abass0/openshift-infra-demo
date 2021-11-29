@@ -23,4 +23,3 @@ In the Grafana dashboard:
 - [x] Select the Default directory
 - [x] Here you will find some premade dashboards for monitoring compute resources, etcd, networking.  
 ```
-
