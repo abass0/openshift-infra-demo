@@ -34,7 +34,7 @@ Once created:
 - [x] In the Developer view, click "+Add"
 - [x] Click "All services"
 - [x] Search for "rails" and click the Configurable StorageClass template
-- [x] Click "Instanciate Template"]
+- [x] Click "Instanciate Template"
 - [X] Set the "Volume Capacity" to 5Gi
 - [X] Set the "Volume Storage Class" to ocs-storagecluster-ceph-rbd
 ```
